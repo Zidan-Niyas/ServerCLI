@@ -1,9 +1,22 @@
-# ServerCLI
+# 📊 Server Performance Stats Script
+A simple and portable Bash script to monitor basic performance statistics on any Linux server.
 
 ## Steps to run this script
 1. Clone the github repository
-2. Go into the project folder
-3. Make the script executable with the command : chmod +x server-stats.sh
-4. Run the script using the command : ./server-stats.sh
+   
+   ```bash
+   git clone https://github.com/Zidan-Niyas/ServerCLI
+   cd ServerCLI
+   ```
+2. Make the script executable
 
-Project Link : https://roadmap.sh/projects/server-stats
+   ```bash
+   chmod +x server-stats.sh
+   ```
+3. Run the script 
+
+   ```bash
+   ./server-stats.sh
+   ```
+
+Part of [roadmap.sh](https://roadmap.sh/projects/server-stats) devops projects.
