@@ -19,4 +19,3 @@ A simple and portable Bash script to monitor basic performance statistics on any
    ./server-stats.sh
    ```
 
-Part of [roadmap.sh](https://roadmap.sh/projects/server-stats) devops projects.
