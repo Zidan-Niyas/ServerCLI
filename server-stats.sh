@@ -11,7 +11,7 @@ echo "Memory Usage : "
 free
 echo
 
-echo "Disk Usage :  "
+echo "Disk Usage : "
 du
 echo
 
