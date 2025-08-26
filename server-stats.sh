@@ -15,7 +15,7 @@ echo "Disk Usage : "
 du
 echo
 
-echo "Top 5 processes by CPU usage : "
+echo "Top 5 processes by CPU usage  : "
 ps -eo ppid,pid,cmd,%cpu --sort=-%cpu | head -n 6
 echo
 
